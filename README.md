@@ -1,9 +1,10 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=Waving&text=al0214&fontColor=E2E2E2&fontAlign=50&color=799fc4&height=180" />
   
-<!--   # About Me
+  # About Me
   Machine Learning과 친숙한 IOS 개발자가 되기위해 노력하는 개발자 입니다.
-  <a href="https://solstice-licorice-e1b.notion.site/87e96f83b99e42a3a325d01a3149fbb9"> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"/> </a> -->
+  
+  <a href="https://statuesque-atom-0d8.notion.site/87e96f83b99e42a3a325d01a3149fbb9"> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"/> </a>
   
   # 🦝 Languages
   <div>
