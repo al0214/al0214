@@ -17,7 +17,7 @@
     <br />
   </div>
   
-   # 🐳 Learning and Tech
+   # 🦭 Learning and Tech
    <div>
      <div style="display: flex; align-items: flex-start;">
        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" />
