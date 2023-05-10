@@ -6,14 +6,13 @@
   
   <a href="https://statuesque-atom-0d8.notion.site/87e96f83b99e42a3a325d01a3149fbb9"> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"/> </a>
   
-  # 🦝 Languages
+  # 🦝 Languages and FrameWork
   <div>
     <div style="display: flex">
       <img src="https://techstack-generator.vercel.app/swift-icon.svg" alt="icon" width="40" style="width: 65px; height: 65px; margin-right: 10px; margin-bottom: 20px; display: inline" />
       <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="40" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 20px; display: inline" />
     </div>
     <img src="https://img.shields.io/badge/SwiftUI-blue?style=for-the-badge&logo=Swift&logoColor=white" />
-    <img src="https://img.shields.io/badge/PacketTracer-yellow?style=for-the-badge&logo=Gmail&logoColor=blue" />
     <br />
   </div>
   
