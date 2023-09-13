@@ -2,18 +2,15 @@
   <img src="https://capsule-render.vercel.app/api?type=Waving&text=al0214&fontColor=E2E2E2&fontAlign=50&color=799fc4&height=180" />
   
   # About Me
-  ML Engineer와 IOS 개발자가 되기 위해 노력하고 있습니다.
+  ML Engineer와 Big Data analyst가 되기 위하여 노력하는 개발자 입니다.
   
   
   
   # 🦝 Languages and FrameWork
   <div>
     <div style="display: flex">
-      <img src="https://techstack-generator.vercel.app/swift-icon.svg" alt="icon" width="40" style="width: 65px; height: 65px; margin-right: 10px; margin-bottom: 20px; display: inline" />
       <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="40" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 20px; display: inline" />
     </div>
-    <img src="https://img.shields.io/badge/SwiftUI-blue?style=for-the-badge&logo=Swift&logoColor=white" />
-    <br />
   </div>
   
    # 🦭 Learning and Tech
