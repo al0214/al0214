@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=Waving&text=al0214&fontColor=E2E2E2&fontAlign=50&color=799fc4&height=180" />
   
   # About Me
-  ML Engineer와 Big Data analyst가 되기 위하여 노력하는 개발자 입니다.
+  ML Engineer와 MLOps가 되기 위하여 노력하는 대학생 입니다.
   
   
   
@@ -23,7 +23,7 @@
        <img src="https://img.shields.io/badge/PytorchLightning-792EE5?style=for-the-badge&logo=pytorchlightning&logoColor=white" />
        <br>
        <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white" />
-       <img src="https://img.shields.io/badge/plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
+       <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=MongoDB&logoColor=white" />
      </div>
       
      
