@@ -20,10 +20,10 @@
        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" />
        <br>
        <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=for-the-badge&logo=Pytorch&logoColor=white" />
-       <img src="https://img.shields.io/badge/PytorchLightning-792EE5?style=for-the-badge&logo=pytorchlightning&logoColor=white" />
+       <img src="https://img.shields.io/badge/poetry-60A5FA?style=for-the-badge&logo=poetry&logoColor=white" />
        <br>
        <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white" />
-       <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=MongoDB&logoColor=white" />
+       <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white" />
      </div>
       
      
