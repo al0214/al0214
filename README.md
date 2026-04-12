@@ -4,7 +4,8 @@
   # About Me
   ML Engineer와 MLOps가 되기 위하여 노력하는 대학생 입니다.
   
-  
+  # HarpSeal Biography
+  [![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/8d3867b63df9428b80a02fafc1b56b4a?source=copy_link)
   
   # 🦝 Languages and FrameWork
   <div>
