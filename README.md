@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=Waving&text=al0214&fontColor=E2E2E2&fontAlign=50&color=799fc4&height=180" />
   
   # About Me
-  ML Engineer와 MLOps가 되기 위하여 노력하는 대학생 입니다.
+  ML Engineer와 Researcher가 되기 위하여 노력하는 대학생 입니다.
   
   # HarpSeal Biography
   [![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://app.notion.com/p/3b9b2c32c94980e3b4dcc3d6715f8add?source=copy_link)
