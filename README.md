@@ -5,7 +5,7 @@
   ML Engineer와 Researcher가 되기 위하여 노력하는 대학생 입니다.
   
   # HarpSeal Biography
-  [![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://app.notion.com/p/3b9b2c32c94980e3b4dcc3d6715f8add?source=copy_link)
+  [![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://app.notion.com/p/3f5b2c32c94980848e2bd381f6979101?source=copy_link)
   
   # 🦝 Languages and FrameWork
   <div>
